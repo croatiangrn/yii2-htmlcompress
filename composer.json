@@ -1,0 +1,22 @@
+{
+    "name": "croatiangrn/yii2-htmlcompress",
+    "description": "Compress HTML output into a single line",
+    "keywords": ["yii2", "html", "compress", "minify", "minimize", "output", "view"],
+    "type": "yii2-extension",
+    "license": "MIT",
+    "homepage": "https://bitbucket.com/croatiangrn/yii2-htmlcompress",
+    "authors": [
+        {
+            "name": "croatiangrn",
+            "email": "smileeerr@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "croatiangrn\\htmlcompress\\": "src"
+        }
+    }
+}
