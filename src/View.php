@@ -1,10 +1,10 @@
 <?php
 
-namespace croatiangrn\htmlcompress;
+namespace croatiangrn\prodhtml;
 
 /**
  * Class View
- * @package croatiangrn\htmlcompress
+ * @package croatiangrn\prodhtml
  */
 class View extends \yii\web\View
 {

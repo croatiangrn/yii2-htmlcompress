@@ -1,10 +1,10 @@
 {
-    "name": "croatiangrn/yii2-htmlcompress",
+    "name": "croatiangrn/yii2-prodhtml",
     "description": "Compress HTML output into a single line",
     "keywords": ["yii2", "html", "compress", "minify", "minimize", "output", "view"],
     "type": "yii2-extension",
     "license": "MIT",
-    "homepage": "https://github.com/croatiangrn/yii2-htmlcompress",
+    "homepage": "https://github.com/croatiangrn/yii2-prodhtml",
     "authors": [
         {
             "name": "croatiangrn",
@@ -16,7 +16,7 @@
     },
     "autoload": {
         "psr-4": {
-            "croatiangrn\\htmlcompress\\": "src"
+            "croatiangrn\\prodhtml\\": "src"
         }
     }
 }
